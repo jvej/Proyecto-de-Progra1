@@ -53,3 +53,9 @@ string Coach::toString() const {
     }
     return ss.str();
 }
+
+
+
+class Perro {
+    private
+};

@@ -52,6 +52,4 @@ string Coach::toString() const {
         ss << (especialidades[i]);
     }
     return ss.str();
-
-    class salsa{
-];
+}

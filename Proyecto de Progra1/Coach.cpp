@@ -55,7 +55,7 @@ string Coach::toString() const {
 }
 
 
-class Dariel {
-private:
-    string cosa;
-};
+string tostring() {
+    stringstream s;
+    s << "Hola mundo" << endl;
+}

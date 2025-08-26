@@ -53,3 +53,10 @@ string Coach::toString() const {
     }
     return ss.str();
 }
+
+
+class Agua {
+
+private:
+    string casa;
+};

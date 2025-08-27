@@ -59,3 +59,9 @@ string tostring() {
     stringstream s;
     s << "Hola mundo" << endl;
 }
+
+string toString() {
+    stringstream s;
+    s << "gran videotutorial" << endl;
+    return s.str();
+}

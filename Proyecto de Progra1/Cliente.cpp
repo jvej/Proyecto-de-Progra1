@@ -84,5 +84,5 @@ string Cliente::toString() const {
 
 string tostring() {
 	return "Mundo";
-
+    cout << "Mariano es gay" << endl;
 }

@@ -82,4 +82,7 @@ string Cliente::toString() const {
 
 
 
-string tostring();
+string tostring() {
+	return "hola";
+
+}

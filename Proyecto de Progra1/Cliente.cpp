@@ -79,3 +79,7 @@ string Cliente::toString() const {
     ss << "Rutina Actual: " << (rutinaActual ? "Asignada" : "No asignada") << endl;
     return ss.str();
 }
+
+
+
+string tostring();

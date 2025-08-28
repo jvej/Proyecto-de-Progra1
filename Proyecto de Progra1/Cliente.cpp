@@ -83,6 +83,6 @@ string Cliente::toString() const {
 
 
 string tostring() {
-	return "hola";
+	return "Mundo";
 
 }

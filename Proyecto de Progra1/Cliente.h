@@ -31,5 +31,6 @@ public:
     Coach* getCoach();
     Medicion* getMedicion(int index);
     int getCantMediciones();
-    Rutina* getRutinaActual();
+	Rutina* getRutinaActual();
 };
+class ola;

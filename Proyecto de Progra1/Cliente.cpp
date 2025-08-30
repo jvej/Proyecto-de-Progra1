@@ -77,7 +77,7 @@ string Cliente::toString() const {
     ss << "Coach: " << (coach ? coach->toString() : "Sin asignar") << endl;
     ss << "Cantidad de Mediciones: " << cantMediciones << endl;
     ss << "Rutina Actual: " << (rutinaActual ? "Asignada" : "No asignada") << endl;
-    return ss.str();
+	return ss.str();
 }
 
 
